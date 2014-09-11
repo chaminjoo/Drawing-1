@@ -4,7 +4,7 @@ function setup() {
 	background(0, 255, 255);
 	noFill();
 
-	stroke(0, 0, 0);
+	stroke(225, 0, 0);
 	line(940, 660, 960, 660);
 	line(940, 670, 960, 670);
 	line(940, 680, 950, 680);
